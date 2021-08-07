@@ -61,9 +61,12 @@
 		]
 	},
 	"dependencies": {
+		"await": "^0.2.6",
 		"bootstrap": "^4.6.0",
+		"copy-image-clipboard": "^1.0.1",
 		"dom-to-image": "^2.6.0",
 		"downloadjs": "^1.4.7",
+		"fetch": "^1.1.0",
 		"html-to-image": "^1.7.0",
 		"jquery": "^3.5.1",
 		"popper.js": "^1.16.1",
@@ -71,6 +74,7 @@
 		"query-string": "^5.1.1",
 		"react": "^16.14.0",
 		"react-dom": "^16.14.0",
-		"react-polyfills": "0.0.1"
+		"react-polyfills": "0.0.1",
+		"reactstrap": "^8.9.0"
 	}
 }
